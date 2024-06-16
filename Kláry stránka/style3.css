@@ -1,0 +1,45 @@
+body {
+    font-family: sans-serif;
+  }
+  
+  header {
+    background-color: #f43333;
+    padding: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+    
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  section {
+    margin-bottom: 20px;
+  }
+  
+  ul {
+    list-style: disc;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 5px;
+  }
+  
+  a {
+    color: rgb(147, 9, 9);
+    text-decoration: none;
+  }
+  
+  footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #a5a4a4;
+  }
+
+  .text2{
+    background-color: pink;
+  }
